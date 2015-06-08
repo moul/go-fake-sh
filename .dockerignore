@@ -1,0 +1,7 @@
+tests
+.git
+dist
+*.tar
+tmp
+.build
+trusted
